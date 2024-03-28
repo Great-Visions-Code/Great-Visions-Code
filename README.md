@@ -4,29 +4,15 @@
 
 ## About
 
-Hi, I'm the person behind **@Great-Visions-Code**. My coding journey began in 2024, focusing primarily on iOS development. With a background in Python, HTML, Java, Swift, SQL, and C+, I'm now diving deeper into the nuances of developing and deploying apps on the App Store.
+Hi, I'm the person behind **@Great-Visions-Code**. My coding journey began in 2024. I am now focusing primarily on iOS development.
 
 ## Interests
 
 - **iOS Development:** Exploring the lifecycle of app development, from conception to deployment.
-- **Technologies:**
-  - **Python**
-  - **HTML**
-  - **Java**
-  - **Swift**
-  - **SQL** 
-  - **C+**
- 
-- **Development Tools:**
-  - **Xcode**
-  - **VS Code**
-  - **MySQL Workbench**
-  - **PyCharm**
-  - **Terminal**
 
 ## Currently Learning
 
-Focusing on expanding my expertise in iOS development. This includes refining UI/UX design, understanding Apple's guidelines for app submissions, and mastering Swift and SwiftUI for more dynamic and responsive apps.
+Focusing on learning all aspects of iOS development. This includes refining UI/UX design, understanding Apple's guidelines for app submissions, and mastering Swift and SwiftUI for more dynamic and responsive apps.
 
 ## Connect
 
