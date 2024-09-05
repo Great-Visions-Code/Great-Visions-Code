@@ -1,4 +1,6 @@
-# Welcome to @Great-Visions-Code
+<div align="center">
+  <h1>Welcome to @Great-Visions-Code</h1>
+</div>
 
 ---
 
