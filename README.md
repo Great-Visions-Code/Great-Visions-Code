@@ -22,8 +22,9 @@ I'm currently immersing myself in all things iOS development. This involves refi
 
 I’m always open to collaboration, learning, and sharing insights. Whether you’re a seasoned developer or just starting out, I’d love to connect and grow together.
 
-- **GitHub:** [Great-Visions-Code](https://github.com/Great-Visions-Code)
+- **Portfolio:** [Great-Visions-Code Portfolio](https://great-visions-code.github.io)
 - **Email:** great.visions@icloud.com
+- **GitHub:** [Great-Visions-Code](https://github.com/Great-Visions-Code)
 
 Feel free to explore my projects, share your thoughts, or drop a line with any advice or ideas you might have. The journey is always better when shared!
 
