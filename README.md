@@ -4,28 +4,31 @@
 
 ---
 
-## About
+## About  
 
-Hi there! I'm the person behind **@Great-Visions-Code**. My coding journey kicked off in 2024, and it's been an exciting ride ever since. While my primary focus is iOS development, this journey has opened my eyes to the vast ecosystem that surrounds app development. I've found myself diving into various languages and technologies that all play a part in creating something truly special. Now, I'm not just building apps—I'm working toward making them full-stack, bringing together the front-end and back-end seamlessly.
+Hey, I’m Gustavo, the developer behind **@Great-Visions-Code**. My coding journey started in 2024, and since then, I’ve been diving deep into iOS development. What began as just learning Swift has evolved into something much bigger—I want to build **full-stack** applications that bring ideas to life from end to end.  
 
-## Interests
+Right now, my focus is on creating **engaging, functional, and user-friendly iOS apps**, but I’m also expanding my skills beyond just mobile. Whether it’s backend development, UI/UX, or learning how to integrate APIs effectively, I’m always looking for ways to improve and grow.  
 
-- **iOS Development:** I'm passionate about the entire lifecycle of app development, from the initial spark of an idea to deploying a polished product in the App Store. Each step is a learning opportunity, and I love exploring how all the pieces fit together.
-  
-- **Expanding the Skillset:** As I've grown, so has my interest in other languages and frameworks. Whether it's exploring Swift, experimenting with backend services, or learning how to integrate APIs, I’m committed to developing a well-rounded skill set that goes beyond just the iOS platform.
+## What I’m Into  
 
-## Currently Learning
+- **iOS Development** – Everything from designing intuitive interfaces to writing clean, efficient Swift code.  
+- **Expanding My Stack** – Learning more about backend services, databases, and cloud functions to build complete apps.  
+- **Problem-Solving** – Whether it’s a tricky SwiftUI animation or debugging API calls, I enjoy figuring things out.  
 
-I'm currently immersing myself in all things iOS development. This involves refining my skills in UI/UX design, diving deep into Swift and SwiftUI, and ensuring I fully grasp Apple's guidelines for app submissions. But it doesn’t stop there—I’m also learning how to build full-stack applications, connecting the dots between the client side and the server side to create more dynamic and robust apps.
+## Currently Learning  
 
-## Connect
+Right now, I’m working on:  
+- **Step by Step** – A gamified step counter that blends fitness with interactive storytelling.  
 
-I’m always open to collaboration, learning, and sharing insights. Whether you’re a seasoned developer or just starting out, I’d love to connect and grow together.
+## Let’s Connect  
 
-- **Portfolio:** [Great-Visions-Code Portfolio](https://great-visions-code.github.io)
-- **Email:** great.visions@icloud.com
-- **GitHub:** [Great-Visions-Code](https://github.com/Great-Visions-Code)
+I’m always open to meeting other devs, sharing ideas, and collaborating. If you’re into iOS development, full-stack applications, or just tech in general, feel free to reach out!  
 
-Feel free to explore my projects, share your thoughts, or drop a line with any advice or ideas you might have. The journey is always better when shared!
+- **Portfolio:** [Great-Visions-Code Portfolio](https://great-visions-code.github.io)  
+- **Email:** great.visions@icloud.com  
+- **GitHub:** [Great-Visions-Code](https://github.com/Great-Visions-Code)  
+
+Check out my projects, drop some feedback, or just say hey—always happy to connect! 🚀  
 
 ---
