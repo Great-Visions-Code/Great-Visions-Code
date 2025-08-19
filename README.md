@@ -1,34 +1,40 @@
 <div align="center">
-  <h1>Welcome to @Great-Visions-Code</h1>
+  <h1>Hi, I’m Gustavo 👋</h1>
+  <p>iOS Developer in the works</p>
 </div>
 
 ---
 
-## About  
+## About Me
 
-Hey, I’m Gustavo, the developer behind **@Great-Visions-Code**. My coding journey started in 2024, and since then, I’ve been diving deep into iOS development. What began as just learning Swift has evolved into something much bigger—I want to build **full-stack** applications that bring ideas to life from end to end.  
+In 2024, I decided to learn how to code—and stuck with it. What started with Swift has grown into a passion for creating apps that are practical, thoughtful, and user-driven.
 
-Right now, my focus is on creating **engaging, functional, and user-friendly iOS apps**, but I’m also expanding my skills beyond just mobile. Whether it’s backend development, UI/UX, or learning how to integrate APIs effectively, I’m always looking for ways to improve and grow.  
+Right now, I’m focused on iOS development, especially using **SwiftUI** to design clean, engaging interfaces. I’ve also been learning how to build out entire app experiences—from UI and logic to data persistence and HealthKit integration.
 
-## What I’m Into  
+My background isn’t traditional tech, which gives me a different perspective. I’m here to keep learning and ship things that work.
 
-- **iOS Development** – Everything from designing intuitive interfaces to writing clean, efficient Swift code.  
-- **Expanding My Stack** – Learning more about backend services, databases, and cloud functions to build complete apps.  
-- **Problem-Solving** – Whether it’s a tricky SwiftUI animation or debugging API calls, I enjoy figuring things out.  
+## Current Project
 
-## Currently Learning  
+### **Step by Step**
+A gamified step tracker that blends storytelling and fitness. Think survival RPG meets daily walking challenge. You take steps in the real world to earn energy and unlock choices in a zombie apocalypse narrative.  
+This project has pushed me to:
 
-Right now, I’m working on:  
-- **Step by Step** – A gamified step counter that blends fitness with interactive storytelling.  
+- Build real-time UI with SwiftUI  
+- Integrate Apple HealthKit for step data  
+- Design and iterate user flows and progress mechanics  
+- Use MVVM to keep the codebase maintainable
 
-## Let’s Connect  
+## Learning Goals
 
-I’m always open to meeting other devs, sharing ideas, and collaborating. If you’re into iOS development, full-stack applications, or just tech in general, feel free to reach out!  
+- Strengthen my Swift and SwiftUI fundamentals  
+- Level up my architecture skills (MVVM, modular design, etc.)  
+- Improve my UI/UX design process and visual polish  
+- Publish a complete app to the App Store
 
-- **Portfolio:** [Great-Visions-Code Portfolio](https://great-visions-code.github.io)  
-- **Email:** great.visions@icloud.com  
-- **GitHub:** [Great-Visions-Code](https://github.com/Great-Visions-Code)  
+## Let’s Connect
 
-Check out my projects, drop some feedback, or just say hey—always happy to connect! 🚀  
+If you’re working on iOS, building something similar, or just want to share feedback, I’d love to connect:
 
----
+- [Portfolio](https://great-visions-code.github.io)  
+- Email: great.visions@icloud.com  
+- GitHub: [@Great-Visions-Code](https://github.com/Great-Visions-Code)  
